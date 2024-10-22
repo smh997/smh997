@@ -1,6 +1,6 @@
 ## Hello Everyone 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=smh997&color=blue)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
 
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 ![GitHub Followers](https://img.shields.io/github/followers/smh997?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/smh997?label=Stars&style=social)
 ![GitHub issues](https://img.shields.io/github/issues/smh997/yourrepo?color=green)
-![Profile Views](https://komarev.com/ghpvc/?username=smh997&color=brightgreen)
+
 -->
 
 
