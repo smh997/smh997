@@ -20,7 +20,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
 
 ### GitHub Trophies 🏆
-![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox)
+![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
 
 
 ### GitHub Streak Stats 🔥
