@@ -9,7 +9,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 - 🌱 I’m currently learning Android Jetpack Compose and trying to do sample projects to skill up!
 - 👯 I’m looking to collaborate on any Android project!
 
-
+ 
 ## Technologies I use:
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.5.31-purple?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Android-green?logo=android&logoColor=white)
