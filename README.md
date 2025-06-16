@@ -6,7 +6,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
 
-- 🌱 I’m an Android Developer always eager to learn and work on projects to level up my skills! Skilled in Kotlin, Jetpack Compose, and backend development with Django.
+- 🌱 I’m an Android Developer always eager to learn and work on projects to level up my skills! Skilled in Kotlin, Jetpack Compose, backend development with Django, and recently exploring game development with Unity.
 - 👯 I’m looking to collaborate on any Android project!
 - 🔍 I have a background as a computational geometry researcher and am a problem solver, continuously tackling algorithmic challenges.
 
