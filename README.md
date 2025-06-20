@@ -12,11 +12,12 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
  
 ## Technologies I use:
-![Kotlin](https://img.shields.io/badge/Kotlin-1.5.31-purple?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Android-green?logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-14/17-cornflowerblue?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3.2-darkgreen?logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
+![Jetpack Compose](https://img.shields.io/badge/Android_Jetpack%20Compose-gray?logo=android&logoColor=white&labelColor=green)
+![Unity](https://img.shields.io/badge/Unity-gray?style=flat&logo=unity&logoColor=black&labelColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-gray?logo=c%2B%2B&logoColor=white&labelColor=cornflowerblue)
+![Python](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=blue)
+![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=white&labelColor=darkgreen)
 
 
 
