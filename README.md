@@ -6,11 +6,15 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
 
-- 🌱 I’m an Android Developer always eager to learn and work on projects to level up my skills! Skilled in Kotlin, Jetpack Compose, backend development with Django, and recently exploring game development with Unity.
-- 👯 I’m looking to collaborate on any Android project!
-- 🔍 I have a background as a computational geometry researcher and am a problem solver, continuously tackling algorithmic challenges.
+- 🎯 Currently focused on **AR/VR development**, leveraging a solid foundation in software engineering to create immersive technologies.  
+- 🌱 Started my career as an **Android Developer**, proficient in **Kotlin**, **Jetpack Compose**, and backend development with **Django**.  
+- 🕹️ Actively exploring **Unity**, with a solid base built through structured learning and hands-on practice in building immersive experiences.  
+- 🤝 Passionate about **contributing to impactful AR/VR projects**, spanning experimental research to practical user applications.  
+- 📐 Background in **computational geometry research**, with 5+ years of experience in **competitive programming** and complex algorithm design.  
+- 👨‍🏫 Experienced in **teaching and mentoring** through university sessions, TA roles, workshops on competitive programming, and one-on-one tutoring in computer science.
+- 🧠 Curious and always learning, I enjoy combining solid technical skills with a focus on great user experiences.
 
- 
+
 ## Technologies I use:
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
 ![Jetpack Compose](https://img.shields.io/badge/Android_Jetpack%20Compose-gray?logo=android&logoColor=white&labelColor=green)
@@ -31,6 +35,8 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
 ### GitHub Activity Graph 📈
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smh997&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+
+🔍 Looking for AR/VR collaborators or open-source opportunities! Feel free to reach out.
 
 <!--
 ## Other stats:
