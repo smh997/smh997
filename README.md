@@ -22,7 +22,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?logo=c%2B%2B&logoColor=white&labelColor=cornflowerblue)
 ![Python](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=blue)
 ![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=white&labelColor=darkgreen)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-gray?logo=Fastapi&logoColor=white&labelColor=teal)
 
 
 ### GitHub Trophies 🏆
