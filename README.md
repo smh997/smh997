@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=smh997&color=blue)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
-
 - 🎯 Currently focused on **AR/VR development**, leveraging a solid foundation in software engineering to create immersive technologies.
 - 🌱 Started my career as an **Android Developer**, proficient in **Kotlin**, **Jetpack Compose**, and backend development with **Django**.  
 - 🕹️ Actively exploring **Unity**, with a solid base built through structured learning and hands-on practice in building immersive experiences.  
@@ -14,6 +10,8 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 - 👨‍🏫 Experienced in **teaching and mentoring** through university sessions, TA roles, workshops on competitive programming, and one-on-one tutoring in computer science.
 - 🧠 Curious and always learning, I enjoy combining solid technical skills with a focus on great user experiences.
 
+## Github Contribution Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
 
 ## Technologies I use:
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
@@ -24,6 +22,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 ![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=white&labelColor=darkgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-gray?logo=Fastapi&logoColor=white&labelColor=teal)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
 
 ### GitHub Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
