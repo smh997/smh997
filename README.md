@@ -10,10 +10,10 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 - 👨‍🏫 Experienced in **teaching and mentoring** through university sessions, TA roles, workshops on competitive programming, and one-on-one tutoring in computer science.
 - 🧠 Curious and always learning, I enjoy combining solid technical skills with a focus on great user experiences.
 
-## Github Contribution Stats:
+### Github Contribution Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
 
-## Technologies I use:
+### Technologies I use:
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
 ![Jetpack Compose](https://img.shields.io/badge/Android_Jetpack%20Compose-gray?logo=android&logoColor=white&labelColor=green)
 ![Unity](https://img.shields.io/badge/Unity-gray?style=flat&logo=unity&logoColor=black&labelColor=white)
