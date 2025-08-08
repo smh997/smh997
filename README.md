@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=smh997&color=blue)
 
-- 🎯 Currently focused on **AR/VR development**, leveraging a solid foundation in software engineering to create immersive technologies.
+- 🎯 Currently focused on **AR/VR development**, leveraging a solid foundation in software engineering to create immersive technologies. [Here I learn more about XR](https://github.com/smh997/XR-Learning).
 - 🌱 Started my career as an **Android Developer**, proficient in **Kotlin**, **Jetpack Compose**, and backend development with **Django**.  
 - 🕹️ Actively exploring **Unity**, with a solid base built through structured learning and hands-on practice in building immersive experiences.  
 - 🤝 Passionate about **contributing to impactful AR/VR projects**, spanning experimental research to practical user applications.  
