@@ -9,6 +9,7 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 - 📐 Background in **computational geometry research**, with 5+ years of experience in **competitive programming** and complex algorithm design.  
 - 👨‍🏫 Experienced in **teaching and mentoring** through university sessions, TA roles, workshops on competitive programming, and one-on-one tutoring in computer science.
 - 🧠 Curious and always learning, I enjoy combining solid technical skills with a focus on great user experiences.
+- 🔍 Looking for AR/VR collaborators or open-source opportunities! Feel free to reach out.
 
 ### Projects
 
@@ -44,8 +45,6 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 
 ### GitHub Activity Graph 📈
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smh997&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
-
-🔍 Looking for AR/VR collaborators or open-source opportunities! Feel free to reach out.
 
 <!--
 ## Other stats:
