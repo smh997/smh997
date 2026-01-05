@@ -39,13 +39,13 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 ![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
 
 
-### GitHub Streak Stats 🔥
+<!-- ### GitHub Streak Stats 🔥
 ![GitHub Streak](https://streak-stats.demolab.com/?user=smh997&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
+-->
 
-
-### GitHub Activity Graph 📈
+<!-- ### GitHub Activity Graph 📈
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smh997&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
-
+-->
 <!--
 ## Other stats:
 ![GitHub Followers](https://img.shields.io/github/followers/smh997?label=Followers&style=social)
