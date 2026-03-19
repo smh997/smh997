@@ -1,33 +1,59 @@
 ## Hello Everyone 👋
 
-Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=smh997&color=blue)
+Welcome to my GitHub profile!  
+![Visitors](https://komarev.com/ghpvc/?username=smh997&color=blue)
 
-- 🎯 Currently focused on **AR/VR development**, leveraging a solid foundation in software engineering to create immersive technologies. [Here I learn more about XR](https://github.com/smh997/XR-Learning).
-- 🌱 Started my career as an **Android Developer**, proficient in **Kotlin**, **Jetpack Compose**, and backend development with **Django**.  
-- 🕹️ Actively exploring **Unity**, with a solid base built through structured learning and hands-on practice in building immersive experiences.  
-- 🤝 Passionate about **contributing to impactful AR/VR projects**, spanning experimental research to practical user applications.  
-- 📐 Background in **computational geometry research**, with 5+ years of experience in **competitive programming** and complex algorithm design.  
-- 👨‍🏫 Experienced in **teaching and mentoring** through university sessions, TA roles, workshops on competitive programming, and one-on-one tutoring in computer science.
-- 🧠 Curious and always learning, I enjoy combining solid technical skills with a focus on great user experiences.
-- 🔍 Looking for AR/VR collaborators or open-source opportunities! Feel free to reach out.
+🌐 **Personal Website:** https://smh997.github.io/
+
+---
+
+- 🎯 Currently focused on **AR/VR development**, leveraging a strong software engineering background to build immersive experiences.  
+  👉 [XR Learning Journey](https://github.com/smh997/XR-Learning)
+
+- 🌱 Started as an **Android Developer**, experienced in **Kotlin**, **Jetpack Compose**, and backend development with **Django**
+
+- 🕹️ Exploring **Unity** through structured learning and hands-on VR/AR projects  
+
+- 🤝 Interested in **impactful AR/VR projects**, from research to real-world applications  
+
+- 📐 Background in **computational geometry**, with 5+ years of experience in **competitive programming**  
+
+- 👨‍🏫 Experience in **teaching and mentoring** (TA roles, workshops, and tutoring)
+
+- 🧠 Curious mindset with a focus on building **useful and well-designed user experiences**
+
+- 🔍 Open to **AR/VR collaboration and open-source opportunities**
+
+---
 
 ### Projects
 
-| 🧩 Category           | 📦 Sample Projects                                                                                                                                                     |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🥽 **AR/VR**          | [🎲 Backgammon VR](https://github.com/smh997/VR-Backgammon), [🏠 VR Room](https://github.com/smh997/vr-room)                                                          |
-| 📱 **Android**        | [🧭 Amsterdam](https://github.com/smh997/amsterdam), [📚 BookExplorer](https://github.com/smh997/BookExplorer), [🔤 Unscramble](https://github.com/smh997/unscramble), [🧾 Inventory](https://github.com/smh997/inventory), [💧 Water Me](https://github.com/smh997/Water-Me), [🪐 Mars Photos](https://github.com/smh997/Mars-Photos), [📘 30 Days of Vocabulary](https://github.com/smh997/30-Days-of-Vocabulary) |
-| 🧠 **Problem Solving**| [💡 Problem Solving](https://github.com/smh997/Problem-Solving)                                                                                                        |
+| 🧩 Category            | 📦 Sample Projects |
+|------------------------|-------------------|
+| 🥽 **AR/VR**           | [🎲 Backgammon VR](https://github.com/smh997/VR-Backgammon), [🏠 VR Room](https://github.com/smh997/vr-room) |
+| 📱 **Android**         | [🧭 Amsterdam](https://github.com/smh997/amsterdam), [📚 BookExplorer](https://github.com/smh997/BookExplorer), [🔤 Unscramble](https://github.com/smh997/unscramble), [🧾 Inventory](https://github.com/smh997/inventory), [💧 Water Me](https://github.com/smh997/Water-Me), [🪐 Mars Photos](https://github.com/smh997/Mars-Photos), [📘 30 Days of Vocabulary](https://github.com/smh997/30-Days-of-Vocabulary) |
+| 🧠 **Problem Solving** | [💡 Problem Solving](https://github.com/smh997/Problem-Solving) |
 | 📊 **Machine Learning**| [💳 Transactions Prediction](https://github.com/smh997/Transactions-Results-Prediction), [🎧 Audiobook Customer Segmentation](https://github.com/smh997/Audiobook-Customer-Segmentation-and-Purchase-Prediction), [🌐 Community Detection](https://github.com/smh997/Community-Detection-in-Social-Networks) |
-| 🖧 **Backend**        | [🌱 Bilche](https://github.com/smh997/Bilche)                                                                                                                         |
+| 🖧 **Backend**         | [🌱 Bilche](https://github.com/smh997/Bilche) |
+
+---
 
 ### Google Play Apps
+
 [🏢 OfficeMeter](https://play.google.com/store/apps/details?id=com.smh.officemeter)
 
-### Github Contribution Stats:
+---
+
+### GitHub Stats
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
 
-### Technologies I use:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
+
+---
+
+### Technologies I Use
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
 ![Jetpack Compose](https://img.shields.io/badge/Android_Jetpack%20Compose-gray?logo=android&logoColor=white&labelColor=green)
 ![Unity](https://img.shields.io/badge/Unity-gray?style=flat&logo=unity&logoColor=black&labelColor=white)
@@ -36,11 +62,11 @@ Welcome to my GitHub profile! ![Visitors](https://komarev.com/ghpvc/?username=sm
 ![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=white&labelColor=darkgreen)
 ![FastAPI](https://img.shields.io/badge/FastAPI-gray?logo=Fastapi&logoColor=white&labelColor=teal)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
+---
 
 ### GitHub Trophies 🏆
-![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
 
 <!-- ### GitHub Streak Stats 🔥
 ![GitHub Streak](https://streak-stats.demolab.com/?user=smh997&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
