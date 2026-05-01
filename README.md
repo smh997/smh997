@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 
 | 🧩 Category            | 📦 Sample Projects |
 |------------------------|-------------------|
-| 🥽 **AR/VR**           | [🎲 Backgammon VR](https://github.com/smh997/VR-Backgammon), [🏠 VR Room](https://github.com/smh997/vr-room) |
+| 🥽 **AR/VR**           | [🎲 Backgammon VR](https://github.com/smh997/VR-Backgammon), [🏠 VR Room](https://github.com/smh997/vr-room), [🚩 WayPoint Creator](https://github.com/smh997/WayPointCreator) |
 | 📱 **Android**         | [🧭 Amsterdam](https://github.com/smh997/amsterdam), [📚 BookExplorer](https://github.com/smh997/BookExplorer), [🔤 Unscramble](https://github.com/smh997/unscramble), [🧾 Inventory](https://github.com/smh997/inventory), [💧 Water Me](https://github.com/smh997/Water-Me), [🪐 Mars Photos](https://github.com/smh997/Mars-Photos), [📘 30 Days of Vocabulary](https://github.com/smh997/30-Days-of-Vocabulary) |
 | 🧠 **Problem Solving** | [💡 Problem Solving](https://github.com/smh997/Problem-Solving) |
 | 📊 **Machine Learning**| [💳 Transactions Prediction](https://github.com/smh997/Transactions-Results-Prediction), [🎧 Audiobook Customer Segmentation](https://github.com/smh997/Audiobook-Customer-Segmentation-and-Purchase-Prediction), [🌐 Community Detection](https://github.com/smh997/Community-Detection-in-Social-Networks) |
