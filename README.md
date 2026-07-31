@@ -54,9 +54,8 @@ Working through a hands-on, RAG-first path into AI engineering and shipping a po
 
 ![Python](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-gray?logo=Fastapi&logoColor=white&labelColor=teal)
-![Cohere](https://img.shields.io/badge/Cohere-gray?logo=cohere&logoColor=white&labelColor=39594D)
-![Chroma](https://img.shields.io/badge/Chroma-gray?logoColor=white&labelColor=FF6B6B)
-![LangChain](https://img.shields.io/badge/RAG_&_Agents-gray?logoColor=white&labelColor=1C3C3C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-gray?logoColor=white&labelColor=FF6B6B)
+![LangChain](https://img.shields.io/badge/LangChain-gray?logoColor=white&labelColor=1C3C3C)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?logo=c%2B%2B&logoColor=white&labelColor=cornflowerblue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin&logoColor=white&labelColor=purple)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-gray?logo=android&logoColor=white&labelColor=green)
