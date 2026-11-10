@@ -62,11 +62,12 @@ Working through a hands-on, RAG-first path into AI engineering and shipping a po
 ![Unity](https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=black&labelColor=white)
 ![Django](https://img.shields.io/badge/Django-gray?logo=django&logoColor=white&labelColor=darkgreen)
 
----
+<!-- ---
 
-### GitHub Stats
+ ### GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=smh997&show_icons=true&theme=merko&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smh997&layout=compact&theme=merko&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=smh997&theme=gruvbox&title=-Reviews)
+-->
